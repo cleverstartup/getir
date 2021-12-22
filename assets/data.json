@@ -4,181 +4,1169 @@
     "product": "Kotanyi Chili mit Meersalz scharf Mühle (34 g)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(1).jpeg",
     "product": "Marques de Caceres Rotwein Rioja tinto Crianza trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(2).jpeg",
     "product": "Sauvignon Blanc Tempranillo Rose (75 cl)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(3).jpeg",
     "product": "Leoff Dornfelder Rotwein Trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(4).jpeg",
     "product": "Heinz Curry Ketchup (500 ml)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(5).jpeg",
     "product": "Kellogg's Smacks (330g)",
     "shelf": "Breakfast",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(1).jpeg",
     "product": "Marques de Caceres Rotwein Rioja tinto Crianza trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(2).jpeg",
     "product": "Sauvignon Blanc Tempranillo Rose (75 cl)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(3).jpeg",
     "product": "Leoff Dornfelder Rotwein Trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(4).jpeg",
     "product": "Heinz Curry Ketchup (500 ml)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(5).jpeg",
     "product": "Kellogg's Smacks (330g)",
     "shelf": "Breakfast",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(1).jpeg",
     "product": "Marques de Caceres Rotwein Rioja tinto Crianza trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(2).jpeg",
     "product": "Sauvignon Blanc Tempranillo Rose (75 cl)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(3).jpeg",
     "product": "Leoff Dornfelder Rotwein Trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(4).jpeg",
     "product": "Heinz Curry Ketchup (500 ml)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(5).jpeg",
     "product": "Kellogg's Smacks (330g)",
     "shelf": "Breakfast",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(1).jpeg",
     "product": "Marques de Caceres Rotwein Rioja tinto Crianza trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(2).jpeg",
     "product": "Sauvignon Blanc Tempranillo Rose (75 cl)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(3).jpeg",
     "product": "Leoff Dornfelder Rotwein Trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(4).jpeg",
     "product": "Heinz Curry Ketchup (500 ml)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(5).jpeg",
     "product": "Kellogg's Smacks (330g)",
     "shelf": "Breakfast",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(1).jpeg",
     "product": "Marques de Caceres Rotwein Rioja tinto Crianza trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(2).jpeg",
     "product": "Sauvignon Blanc Tempranillo Rose (75 cl)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(3).jpeg",
     "product": "Leoff Dornfelder Rotwein Trocken (0.75 L)",
     "shelf": "Alcohol",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(4).jpeg",
     "product": "Heinz Curry Ketchup (500 ml)",
     "shelf": "Food Cupboard",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   },
   {
     "image": "download(5).jpeg",
     "product": "Kellogg's Smacks (330g)",
     "shelf": "Breakfast",
     "appCount": 10,
-    "storeCount": 10
+    "storeCount": 10,
+    "explanation": {
+      "productRecall": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Recall"
+      },
+      "defectedProduct": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Defected Product"
+      },
+      "missingStock": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Missing Stock"
+      },
+      "productDamaged": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product  Damaged"
+      },
+      "productExpiry": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Product Expiry"
+      },
+      "other": {
+        "count": "",
+        "isSelected": false,
+        "explanation": "",
+        "description": "Other"
+      }
+    }
   }
 ]
